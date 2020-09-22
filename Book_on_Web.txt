@@ -1,0 +1,17 @@
+book on web:
+
+http://www.deeplearningbook.org/
+http://neuralnetworksanddeeplearning.com/index.html
+https://stanford.edu/~shervine/l/vi/
+
+https://deep-learning-drizzle.github.io/
+https://github.com/ngocdha/deep-learning-drizzle
+https://github.com/kmario23/deep-learning-drizzle
+
+https://phamdinhkhanh.github.io/
+
+https://d2l.ai/
+https://www.deeplearning.ai/machine-learning-yearning/
+
+- Reinforcement learning
+http://www.incompleteideas.net/book/the-book-2nd.html
